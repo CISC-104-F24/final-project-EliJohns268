@@ -16,6 +16,7 @@ public class RunScene3 : MonoBehaviour
         int chance = Random.Range(0, 2);
         if (chance == 0)
         {
+            PointScript.lateness--;
             SceneManager.LoadScene(5);
         }
         else if (chance == 1)

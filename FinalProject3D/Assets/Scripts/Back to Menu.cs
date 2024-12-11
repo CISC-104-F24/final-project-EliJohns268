@@ -12,7 +12,7 @@ public class WinMenu : MonoBehaviour
     // This function is called when the button is clicked
     public void OnButtonClick()
     {
-        
+        PointScript.lateness = 1;
         SceneManager.LoadScene(0);
     }
     }
