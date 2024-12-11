@@ -4,5 +4,50 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro 0.unity
+    guid: f24cf5e7fa68584479138f57e97028a8
+  - enabled: 1
+    path: Assets/Scenes/Intro 0.5.unity
+    guid: b5cab549848207b4ba9972d03cc16cad
+  - enabled: 1
+    path: Assets/Scenes/Dorm 1.unity
+    guid: d5cb53c4bbd075341be4d8875ecf113a
+  - enabled: 1
+    path: Assets/Scenes/Ray 2.unity
+    guid: 1d01fa14ceb9a3445b5b687b911d6145
+  - enabled: 1
+    path: Assets/Scenes/Clev 3.unity
+    guid: 4b21edd13ab660c419190016468cc088
+  - enabled: 1
+    path: Assets/Scenes/Trabant 4.unity
+    guid: e6a7216c4545eff4e80a54a5ea7d7ed4
+  - enabled: 1
+    path: Assets/Scenes/Intersection 5.unity
+    guid: d6034ddb7b250e24a87402bd44d95c25
+  - enabled: 1
+    path: Assets/Scenes/Hobo 6.unity
+    guid: 09287d58e6f579542a097a79ea0e8c6b
+  - enabled: 1
+    path: Assets/Scenes/Running 6.5.unity
+    guid: e46eab9cf9b8009429d125f23787198d
+  - enabled: 1
+    path: Assets/Scenes/Got away 7.unity
+    guid: fe21437044d788641a306ff505cb633c
+  - enabled: 1
+    path: Assets/Scenes/Arch 8.unity
+    guid: e7d3b3bc5498f2e4db42d2a49d29def2
+  - enabled: 1
+    path: Assets/Scenes/Finally 9.unity
+    guid: 7431ef0c6c7218b45846c52d34374ce0
+  - enabled: 1
+    path: Assets/Scenes/Win 10.unity
+    guid: fe827294ae2dc9145a626cba7a2a75b2
+  - enabled: 1
+    path: Assets/Scenes/Lose 10.unity
+    guid: 70cf50caf2271df4888e7a10b8036de6
+  - enabled: 1
+    path: Assets/Scenes/Die 10.unity
+    guid: 0ed5a59dad2769440825249f61256a40
   m_configObjects: {}
